@@ -10,7 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-geist-mono
 const _notoSansJP = Noto_Sans_JP({ subsets: ["latin"], variable: "--font-noto-jp", weight: ["400", "500", "700"] })
 
 export const metadata: Metadata = {
-  title: "KanaStarter - Learn Japanese Hiragana & Katakana",
+  title: "KanaStarter",
   description:
     "A minimal, world-class app to learn Japanese hiragana, katakana, and numbers with step-by-step lessons, audio, and spaced repetition.",
   keywords: ["Japanese", "hiragana", "katakana", "learn Japanese", "kana", "language learning"],
